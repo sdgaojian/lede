@@ -14,6 +14,7 @@ on:
     #- cron: 0 20 * * *
   watch:
     types: started
+    
 jobs:
 
   build:
